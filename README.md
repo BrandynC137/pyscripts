@@ -1,4 +1,4 @@
-# PyScript Repository
+# PyScripts Repository
 
 Welcome to the PyScript Repository! This repository contains various Python scripts for different purposes. Each script is designed to be simple, easy to use, and can be easily modified to suit your needs.
 
