@@ -14,8 +14,8 @@ To use any of the scripts in this repository, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/python-scripts.git
-    cd python-scripts
+    git clone https://github.com/yourusername/pyscripts.git
+    cd pyscripts
     ```
 
 2. (Optional) Create a virtual environment:
