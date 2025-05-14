@@ -8,10 +8,10 @@ if not api_token:
     raise EnvironmentError("REPLICATE_API_TOKEN is not set!")
 
 replicate.Client(api_token=api_token)
-
+user_input = input("Imagine: ")
 output = replicate.run(
   "black-forest-labs/flux-schnell",
-  input={"prompt": "astronaut fighting a bear"}
+  input={"prompt": user_input}
 )
 
 # Save the generated image
